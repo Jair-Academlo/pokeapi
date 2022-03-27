@@ -6,7 +6,6 @@ import {useProtectedRoute} from '../../provider/AuthProvider.js';
 import axios from 'axios';
 import './Pokedex.css';
 import Pagination from "../Pagination.js";
-import Footer from './Footer'
 import {useSelector, useDispatch} from 'react-redux';
 
 
