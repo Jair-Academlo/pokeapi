@@ -6,4 +6,3 @@ Deploy: [poke-api](https://pokeapi-web.netlify.app/#/)
 ## Web aplication to search information about pokemons. Was created using the API from PokeAPI and ReactJS with some concepts of useContext and Redux.
 
 
-# pokeapi
