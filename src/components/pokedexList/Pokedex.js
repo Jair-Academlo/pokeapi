@@ -225,7 +225,7 @@ const Pokedex = () => {
 
         </div>
 
-      <Footer/>
+      
               
     </div>
 
